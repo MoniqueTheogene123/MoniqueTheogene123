@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoniqueTheogene123
-- 👀 I’m interested in react and python
-- 🌱 I’m currently learning react
+- 👀 I’m interested in ruby and python
+- 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me slack
 
